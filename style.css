@@ -381,9 +381,9 @@ nav .bi{
         flex-basis: 100%;
     }
         
-        .services-list {
-            display: flex;
-            flex-direction: column;
-            gap: 20px;
-        }
+    .services-list {
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
 }
