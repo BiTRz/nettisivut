@@ -94,10 +94,12 @@ This document lists the evaluation criteria and the corresponding implementation
 5. **Effective use of asynchronous data to enhance user experience (like filtering, sorting).**
    - Not applicable
 ----------------------------------------------------------------------------------------------------
-ontact Me
+**Contact Me**
+
 What happens when Contact Me is filled
 ![Contact Demo](assets/pictures/contactDEMO.gif)
 
-Google Apps Script
+**Google Apps Script**
+
 Here is the code made for Google Sheet using Apps Script
 ![alt text](assets/pictures/AppsScript.png)
