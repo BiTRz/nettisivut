@@ -96,7 +96,7 @@ This document lists the evaluation criteria and the corresponding implementation
 ----------------------------------------------------------------------------------------------------
 Contact Me
 What happens when Contact Me is filled
-<video controls src="assets/pictures/contactDEMO.mp4" title="Title"></video>
+[Watch the video](assets/pictures/contactDEMO.mp4)
 
 Google Apps Script
 Here is the code made for Google Sheet using Apps Script
